@@ -3,8 +3,8 @@
 Completing each of the following models/projects with high accuracy results. 
 
 1. Email spam detection
-2. Retail inventory demand 
-3. Retail price optimization
+2. Asset demand 
+3. Asset price optimization
 4. Housing price prediction
 5. Misinformation classification
 6. Ultrasound nerve identification
